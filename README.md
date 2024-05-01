@@ -1,4 +1,4 @@
-### Hello 👋
+### Olá ✨
 Meu nome é Stephany
 
 * Estou estudando na Alura
@@ -12,3 +12,5 @@ Meu nome é Stephany
   @teph4ny
   
   stephe.ferreira222@gmail.com
+
+![](https://media.tenor.com/UASNehMcpI8AAAAM/phoebe-tonkin.gif)
