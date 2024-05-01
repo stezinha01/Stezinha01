@@ -1,7 +1,7 @@
 ### Olá ✨
 Meu nome é Stephany
 
-* Estou estudando na Alura
+* Estou estudando na [Alura](https://www.alura.com.br/)
 * Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 
