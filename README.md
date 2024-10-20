@@ -5,7 +5,7 @@ Meu nome é Stephany
 * Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 
-  Sou apaixonada em filmes e séries, amo arte e adoro viajar.
+  Gosto de filmes e séries, amo arte e adoro viajar.
   
   Você pode entrar em contato comigo:
   
